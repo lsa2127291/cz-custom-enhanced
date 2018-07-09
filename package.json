@@ -1,0 +1,38 @@
+{
+  "version": "0.0.1",
+  "name": "cz-custom-enhanced",
+  "description": "自定义custom enhanced",
+  "main": "index.js",
+  "homepage": "https://github.com/leonardoanalista/cz-custom-enhanced",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsa2127291/cz-custom-enhanced.git"
+  },
+  "author": "lsa2127291 <lsa2127291@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "editor": "1.0.0",
+    "find-config": "0.3.0",
+    "temp": "0.8.3",
+    "winston": "2.1.0",
+    "word-wrap": "1.1.0",
+    "inquirer": "1.2.3"
+  },
+  "devDependencies": {
+    "codecov.io": "0.1.6",
+    "commitizen": "2.9.5",
+    "eslint": "1.9.0",
+    "istanbul": "0.4.0",
+    "jasmine-node": "1.14.5",
+    "rewire": "2.5.0",
+    "semantic-release": "4.3.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./index.js"
+    },
+    "cz-custom-enhanced": {
+      "config": "cz-config-EXAMPLE.js"
+    }
+  }
+}
