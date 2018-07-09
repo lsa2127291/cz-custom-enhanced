@@ -3,11 +3,18 @@
   "name": "cz-custom-enhanced",
   "description": "自定义custom enhanced",
   "main": "index.js",
-  "homepage": "https://github.com/leonardoanalista/cz-custom-enhanced",
+  "homepage": "https://github.com/lsa2127291/cz-custom-enhanced.git",
   "repository": {
     "type": "git",
     "url": "https://github.com/lsa2127291/cz-custom-enhanced.git"
   },
+  "keywords": [
+    "git",
+    "commit",
+    "angularjs",
+    "cz",
+    "custom"
+  ],
   "author": "lsa2127291 <lsa2127291@gmail.com>",
   "license": "MIT",
   "dependencies": {
