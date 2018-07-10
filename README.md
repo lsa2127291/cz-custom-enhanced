@@ -60,7 +60,7 @@ entry: {
       prefix: '方案: ',
       message: '简述解决方案'
     },
-    footer: { // 内容位
+    footer: { // 尾内容
       prefix: '影响范围: ',
       message: '描述代码影响范围（可选）'
     }
