@@ -34,7 +34,9 @@ cz-custom-enhanced是在[customizable Commitizen](https://github.com/leonardoana
     }
   }
   ```
-Note: 配置 `commitizen` 的路径可以让你无需全局安装 `commitizen` .
+Note:
+- 配置 `commitizen` 的路径可以让你无需全局安装 `commitizen`.
+- 如果不想自己写配置， 可以直接使用 `cz-config-EXAMPLE.js` 作为你的的配置文件
 
 
 ## Options
